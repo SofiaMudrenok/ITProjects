@@ -6,5 +6,3 @@ def add(a, b):
 c = add(2, 3)
 
 print("2 + 3 =".format(c))
-
-# blablabla
